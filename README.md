@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am 444B 👋
 
-<!--
-**444B/444B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Cardano Smart Contract Development
+- 🌱 I’m currently learning Blockchain, Web3
+- 👯 I’m looking to collaborate on anything and make mistakes fast
+ 
+- 📫 How to reach me: 444b+githubcontact1@pm.me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+<!---
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about
+- ⚡ Fun fact: 
+--->
