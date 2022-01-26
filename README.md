@@ -1,6 +1,6 @@
 ### Hi there, I am 444B 👋
 
-- 🔭 I’m currently working on Cardano Smart Contract Development
+- 🔭 I’m currently working on Cardano Smart Contract Development and Mentoring Linux Workshops
 - 🌱 I’m currently learning Blockchain, Web3
 - 👯 I’m looking to collaborate on anything and make mistakes fast
  
