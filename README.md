@@ -12,30 +12,19 @@
 ![HTML](https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CD6799?logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white)
-![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-663399?logo=gatsby&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-61DAFB?logo=redux&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-0cb47c?logo=figma&logoColor=white)
+
 
 ## Back End Tech
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-3c873a?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-3c873a?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-2c2c2c?logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-F6820D?logo=firebase&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Tooling
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white)
+
 
 ## My GitHub stats
 
