@@ -3,30 +3,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/444B/count.svg)
 
 <div align="center">
-
 [![](https://raw.githubusercontent.com444B/444B/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com444B/444B/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/444B/444B/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
  [![](https://raw.githubusercontent.com/444B/444B/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
 </div>
-
-
-
-
-
-<div>
-  <img src="https://github.com/444B/444B/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<!-- ![Snake animation](https://github.com/444B/444B/blob/output/github-contribution-grid-snake.svg) -->
-
-
-
-
-
 
 
 ## My Statistics
