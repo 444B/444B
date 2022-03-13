@@ -5,18 +5,12 @@
 - 👯 I’m looking to collaborate on anything and make mistakes fast
 - 📫 How to reach me: 444b+githubcontact1@pm.me
 
-You are visitor number <img src="https://komarev.com/ghpvc/?username=444B&label=Profile%20views&color=0e75b6&style=flat" alt="Page Visits" style="display: inline-block"/> to this profile!
+You are <img src="https://komarev.com/ghpvc/?username=444B&color=0e75b6&style=flat&&label=Visitor+Number" alt="Page Visits" style="display: inline-block"/> to this profile!
 
 Let me overwhelm you with stats and hopefully you will provide me with internet points
 ## My Statistics
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=444B&theme=gruvbox&hide_border=true">
+
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-<!-- 
-![Visitor Count](https://profile-counter.glitch.me/444B/count.svg) <p align="left"> 
-
-
--->
