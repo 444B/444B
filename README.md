@@ -1,4 +1,3 @@
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=444B&theme=gruvbox&hide_border=true">
 ## About me:
 ### Hi there, I am 444B 👋
 - 🔭 I’m currently working on Cardano Smart Contract Development and providing mentorship of Linux and Raspberry pi Workshops
@@ -10,7 +9,7 @@ You are visitor number <img src="https://komarev.com/ghpvc/?username=444B&label=
 
 Let me overwhelm you with stats and hopefully you will provide me with internet points
 ## My Statistics
-
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=444B&theme=gruvbox&hide_border=true">
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
