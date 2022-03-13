@@ -1,8 +1,15 @@
-- 🚧Under Contsruction 🚧
+# 🚧Under Contsruction 🚧
 
-![Visitor Count](https://profile-counter.glitch.me/444B/count.svg)
+## About me:
+### Hi there, I am 444B 👋
+- 🔭 I’m currently working on Cardano Smart Contract Development and providing mentorship of Linux and Raspberry pi Workshops
+- 🌱 I’m currently learning Haskell
+- 👯 I’m looking to collaborate on anything and make mistakes fast
+- 📫 How to reach me: 444b+githubcontact1@pm.me
 
+You are visitor number  ![Visitor Count](https://profile-counter.glitch.me/444B/count.svg) <p align="left"> <img src="https://komarev.com/ghpvc/?username=444B&label=Profile%20views&color=0e75b6&style=flat" alt="444B" /> </p> to this profile!
 
+Let me overwhelm you with stats and hopefully you will provide me with internet points
 ## My Statistics
 
 <br/>
@@ -16,21 +23,9 @@
 [![444B's Activity Graph](https://activity-graph.herokuapp.com/graph?username=444B&custom_title=444B's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 
-
-
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
-<!-- ### Hi there, I am 444B 👋
-
-- 🔭 I’m currently working on Cardano Smart Contract Development and Mentoring Linux Workshops
-- 🌱 I’m currently learning Blockchain and Unix
-- 👯 I’m looking to collaborate on anything and make mistakes fast
- 
-- 📫 How to reach me: 444b+githubcontact1@pm.me
 
 
 # Front End Tech
@@ -63,7 +58,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=444B&label=Profile%20views&color=0e75b6&style=flat" alt="444B" /> </p>
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about
-- ⚡ Fun fact: 
---->
