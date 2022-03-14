@@ -9,7 +9,7 @@ You are <img src="https://komarev.com/ghpvc/?username=444B&color=0e75b6&style=fl
 
 Let me overwhelm you with stats and hopefully you will provide me with internet points
 ## My Statistics
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=444B&theme=gruvbox&hide_border=true">
+<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=444B&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)">
 
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
