@@ -1,5 +1,6 @@
 ## About me:
-### Hi there, I am 444B 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hi%20there,%20I%20am%20444B&fontSize=55&&fontAlignY=35)
+
 - 🔭 I’m currently working on Cardano Smart Contract Development and providing mentorship of Linux and Raspberry pi Workshops
 - 🌱 I’m currently learning Haskell
 - 👯 I’m looking to collaborate on anything and make mistakes fast
@@ -7,11 +8,9 @@
 
 You are <img src="https://komarev.com/ghpvc/?username=444B&color=0e75b6&style=flat&&label=Visitor+Number" alt="Page Visits" style="display: inline-block"/> to this profile!
 
-Please find below my competencies, scaled from Left( More expertize ) to Right( Less expertize )
-<pre>
-Most Competent and comfortable                Good Foundation                      Have used, Familiar with Usage
-</pre>
-<<<=======================================================================>>>
+Please find below my competencies, scaled from Left ( More expertize ) to Right ( Less expertize )
+![ranking](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10&text=Most%20Competent%20and%20comfortable%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20Good%20Foundation%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20Have%20used,%20Familiar%20with%20Usage&fontSize=15&height=40)
+
 ### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
@@ -76,11 +75,15 @@ Most Competent and comfortable                Good Foundation                   
   <img src="https://github.com/devicons/devicon/blob/develop/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine 4" alt="Unreal Engine 4" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/develop/icons/blender/blender-original.svg" title="Blender" alt"Blender" width="40" height="40"/>&nbsp;
 </div>
+<br/>
+<br/>  
+I am aware that the dark icons struggle to show. They have stage fright :(  <br/>
+Let me overwhelm you with stats and hopefully you will provide me with internet points  
 
-Let me overwhelm you with stats and hopefully you will provide me with internet points
-## My Statistics
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=sTatIStiCs&fontAlign=70&rotate=13&fontAlignY=25&desc=cus%20who%20doesnt%20love%20numbers&descAlign=70.&descAlignY=44)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=444B&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/444B/444B/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=150&section=footer&text=Thanks%20for%20looking!&fontSize=35&fontAlignY=75&fontAlign=30&desc=Pls%20hire%20meeee&descSize=8)
