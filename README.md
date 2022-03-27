@@ -78,7 +78,7 @@ Please find below my competencies, scaled from Left ( More expertize ) to Right 
 <br/>
 <br/>  
 I am aware that the dark icons struggle to show. They have stage fright :(  <br/>
-Let me overwhelm you with stats and hopefully you will provide me with internet points  
+Let me overwhelm you with stats and hopefully you will provide me with the internet points  
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=sTatIStiCs&fontAlign=70&rotate=13&fontAlignY=25&desc=cus%20who%20doesnt%20love%20numbers&descAlign=70.&descAlignY=44)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=444B&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
