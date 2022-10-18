@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Haskell
 - 👯 I’m looking to collaborate on anything and make mistakes fast
 - 📫 How to reach me: 444b+githubcontact1@pm.me
-
+- this is a new edit 
 You are <img src="https://komarev.com/ghpvc/?username=444B&color=0e75b6&style=flat&&label=Visitor+Number" alt="Page Visits" style="display: inline-block"/> to this profile!
 
 Please find below my competencies, scaled from Left ( More expertize ) to Right ( Less expertize )
