@@ -1,13 +1,12 @@
 ## About me:   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hi%20there,%20I%20am%20444B&fontSize=55&&fontAlignY=35)
 
-- 🔭 I’m currently working on Cardano Smart Contract Development and providing mentorship of Linux and Raspberry pi Workshops
-- 🌱 I’m currently learning Haskell
-- 👯 I’m looking to collaborate on anything and make mistakes fast
-- 📫 How to reach me: 444b+githubcontact1@pm.me
-- this is a new edit
--- this is a signed cmmit 
-You are <img src="https://komarev.com/ghpvc/?username=444B&color=0e75b6&style=flat&&label=Visitor+Number" alt="Page Visits" style="display: inline-block"/> to this profile!
+- 🔭 I’m currently working on understanding internet architechture, cloud computing and how to interact with them programmatically
+- 🌱 I’m currently learning Go and Python  
+- 👯 I’m looking to collaborate on anything and make mistakes fast  
+- 📫 How to reach me: Make a PR or something  
+
+You are <img src="https://komarev.com/ghpvc/?username=444B&color=0e75b6&style=flat&&label=Visitor+Number" alt="Page Visits" style="display: inline-block"/> to this profile! Lucky you!  
 
 Please find below my competencies, scaled from Left ( More expertize ) to Right ( Less expertize )
 ![ranking](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10&text=Most%20Competent%20and%20comfortable%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20Good%20Foundation%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20Have%20used,%20Familiar%20with%20Usage&fontSize=15&height=40)
