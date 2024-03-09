@@ -1,6 +1,9 @@
 ## About me:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there,%20I%20am%20444B&fontSize=55&&fontAlignY=35)
 
+- Maintainer of:
+    - [streamlit-analytics2](https://github.com/444B/streamlit-analytics2)
+
 - 🔭 I’m currently focused on mastering DevOps practices, including CI/CD, automation, and cloud infrastructure management.
 - 🌱 I’m deepening my skills in Go, Python, and exploring tools like Kubernetes, Terraform, and Jenkins.
 - 👯 I’m looking to collaborate on innovative projects in cloud computing and DevOps.
