@@ -1,5 +1,4 @@
-## Hello, I'm 444B! 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there,%20I%20am%20444B&fontSize=55&&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there,%20I%20am%20444B%20👋&fontSize=55&&fontAlignY=35)
 
 ### Open Source Contributions 🚀
 - **Maintainer of [streamlit-analytics2](https://github.com/444B/streamlit-analytics2)**
